@@ -19,10 +19,10 @@
 <p align='center'>
   <br><br><br>
   <!--Socials-->
-  <a href="https://www.linkedin.com/in/jonathan-henrique-1b4a69144/">
+  <a href="https://www.linkedin.com/in/jonathan-henrique-1b4a69144/" target="_Blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>        
-  <a href="https://www.instagram.com/jonathan.hk/">
+  <a href="https://www.instagram.com/jonathan.hk/" target="_Blank">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
     </a>
   
