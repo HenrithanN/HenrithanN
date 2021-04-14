@@ -3,7 +3,7 @@
 
 <h2 align="center"><em>Jonathan Henrique</em></h2>
 <p align='center'>
-  Future front-end and .net developer from Araxá, Brazil.
+  Future Full Stack developer from Araxá, Brazil.
 </p>
 <p align="center">
     <ul>
