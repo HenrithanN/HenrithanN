@@ -3,12 +3,11 @@
 
 <h2 align="center"><em>Jonathan Henrique</em></h2>
 <p align='center'>
-  Future Full Stack developer from Araxá, Brazil.
+  Full Stack developer from Araxá, Brazil.
 </p>
 <p align="center">
     <ul>
-        <li>🔭 I’m currently working on BitPagg</li>
-        <li>🌱 I’m currently learning  Node.JS and Angular and always improving my knowledge</li>
+        <li>🔭 I’m currently working on Bit Tech</li>
         <li>📫 How to reach me: JonathanHenrique1515@Gmail.com</li>
     </ul>
      
